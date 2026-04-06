@@ -103,3 +103,6 @@ filename=shell
 extension=py
 data=[BASE64_ENCODED_PYTHON_SHELL]
 ```
+After uploading, I triggered the shell by accessing the /view/shell.py API.
+
+Result: 🏁 Connection Received! I gained full remote access to the attacker's server. 🤘
