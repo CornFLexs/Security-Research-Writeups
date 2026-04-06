@@ -1,6 +1,5 @@
 # 🛡️ Hunting the Hunter: From Phishing PDF to C2 Server Takeover 🛡️
-
-**Date:** April 2026  
+ 
 **Category:** 📑 Malware Analysis | 🐚 Reverse Shell | ⚔️ Offensive Security  
 **Case Type:** Incident Response & Threat Hunting
 
