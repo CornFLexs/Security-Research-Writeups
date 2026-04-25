@@ -4,11 +4,6 @@ Welcome to my technical portfolio. I am a **Penetration Tester and Cybersecurity
 
 > **Note:** All write-ups are strictly redacted to comply with NDA and private policy protocols. Targets are referenced as `redacted.com`.
 
-## 🚀 Critical Findings
-| Severity | Vulnerability Type | Impact | Technical Report |
-| :--- | :--- | :--- | :--- |
-| 🔴 **Critical** | **Fail-Open Logic Flaw** | Full Database PII Leak | [View Case Study](./writeups/fail-open-pii-leak.md) |
-
 ---
 
 ## 🛠️ Strategic Methodology
